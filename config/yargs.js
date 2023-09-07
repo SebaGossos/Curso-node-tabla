@@ -1,5 +1,3 @@
-const { describe } = require('yargs');
-
 const argv = require('yargs')
     .options('b', {
         alias: 'base',
